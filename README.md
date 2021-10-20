@@ -1,5 +1,5 @@
 # ELEC 7970: Reinforcement Learning 
-This repository contains 
+This repository contains: 
 * Tutorial on Python
 * Policy Iteration 
 * Value Iteration
