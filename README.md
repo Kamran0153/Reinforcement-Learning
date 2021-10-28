@@ -4,3 +4,4 @@ This repository contains:
 * Policy Iteration 
 * Value Iteration
 * SARSA
+* Q Learning
