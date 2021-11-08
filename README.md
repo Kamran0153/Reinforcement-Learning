@@ -6,3 +6,4 @@ This repository contains:
 * SARSA
 * Q Learning
 * TensorFlow Tutorial
+* DQN
