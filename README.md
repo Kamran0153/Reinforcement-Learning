@@ -7,3 +7,4 @@ This repository contains:
 * Q Learning
 * TensorFlow Tutorial
 * DQN
+* REINFORCE
